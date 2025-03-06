@@ -49,7 +49,7 @@ Las tiendas cercanas se identificarán mediante la ubicación de un usuario o en
        1. En caso de votar negativamente en un `PRODUCTO` se dará la opción de poner un comentario para dar información adicional.
     10. Borrado de el comentario sobre una votación negativa de un `PRODUCTO`.
     11. Modificación en un `PRODUCTO` una votación positiva a una negativa y viceversa. En caso de tener una votación negativa con comentario y se quiera cambiar a votación positiva se eliminará el comentario también.
-3. Usuario propietario (usuario que tenga una tienda de productos propia):
+3. **\[STAND BY]** Usuario propietario (usuario que tenga una tienda de productos propia):
     1. Vinculación de cuenta con la tienda propietaria, restricciones de funcionalidades hasta que no se vincule.
     2. Borrado de cuenta de usuario.
     3. Modificación de credenciales, datos de usuario y/o datos de tienda.
@@ -76,5 +76,6 @@ Ubicación: Rúa Camiño Verde 23
 
 - Tiene google maps un identificador único para todos los marcadores que existen?
   - Si lo tiene, es público? Es decir, sirve para que el usuario busque un marcador en el mapa y lo marque para vincular el objeto?
+- Puedo identificar el usuario propietario de una tienda
 - Puedes crear un mapa personalizado para marcadores es Google Maps?
   - Puedes duplicar marcadores de Maps normal a la versión personalizada para el proyecto?
