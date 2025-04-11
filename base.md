@@ -27,21 +27,35 @@ Enxeñaría do Software
 1. Tipo de proxecto
 Clásico de enxeñaría
 1. Breve descripción
-Desenvolvemento dunha plataforma web que permita a creación de esquemas distributivos sobre produtos de supermercados por e para os usuarios, e permita a análise de ofertas sobre produtos dunha lista da compra en base a información dos catálogos online dos supermercados.
+Aplicación web para a creación e visualización de esquemas distributivos de productos en supermercados ademáis de encontrar a mellor oferta.
 1. Obxectivos concretos
-Coma obxectivos persoais: mellorar no uso do marco de desenvolvemento ASP.NET así coma introducirme e aprender sobre TypeScript, Angular e a integración máis interacción entre os lenguaxes e frameworks.
+    - Rexistro de usuarios.
+    - Ofrecer ó usuario unha interfaz que lle permita crear, gardar e compartir distribucións de produtos de un supermercado.
+    - Ofrecer ó usuario unha interfaz que lle permita crear e gardar listas de compra con productos que desexe.
+    - Ofrecer ó usuario a posibilidade de escanear catálogos web de supermercados co obxectivo de encontrar as mellore ofertas.
 1. Método de traballo
 Traballar en sprints de unha semana con os seguintes obxectivos:
-    - Ter metas de traballo claras.
-    - Seguimentos rápidos e constantes no desenvolvemento do proxecto coma o cumplimento de metas ou xurdimento de problemas.
+    - Metas de traballo claras.
+    - Seguementos rápidos e constantes no desenvolvemento do proxecto coma o cumplimento de metas ou xurdimento de problemas.
     - Flexibilidade á hora de ataxar solucións e restructurar o traballo se he necesario.
     - Versatilidade para cambiar a priorización das tareas.
 1. Fases principais
-Planificación de uso e preparación do traballo, diseño, implementación e probas.
-1. Material e medios necesarios
-Inclúense ordenador persoal de escritorio e un portátil para desenvolvemento. Entre as ferramentas de sofware: Microsoft Visual Studio Community Edition 2022 coma IDE e Git + GitHub para control de versións. Nas utilidades de desenvolvemento: PostgreSQL para o diseño e implementación de a base de datos, ASP.NET como framework encargado do backend e Angular como framework para frontend. En caso de librerías externas destacadas: Gridstack para desenvolvemento da interfaz de usuario e HTMLAgilityPack para análise e recollida de datos. Todas as ferramentas software, utilidades de desenvolvemento e librerías externas están rexistradas baixo licencias que permiten o uso de individual e/ou estudantil.
+    - Planificación de uso e preparación do proxecto: planificar o entorno de traballo, preparar as ferramentas e servicios necesarios, determinar funcionalidades, requisitos e alcance da aplicación.
+    - Deseño: deseño de base de datos, creación de casos de uso, prototipado da interfaz de usuario, fluxos de navegación, usabilidad.
+    - Implementación: codificación, integración, pruebas unitarias, pruebas de integración, despliegue y documentación.
+    - Probas: de sistema, usabilidad, aceptación del usuario, seguimiento y registro de errores.
+2. Material e medios necesarios
+Inclúense ordenador persoal de escritorio e un portátil para o desenvolvemento. Entre os medios necesarios contarase co entorno de desenvolvemento Microsoft Visual Studio Community 2022 e ferramentas de p. Outros aspectos inclúen un servidor de bases de datos e un framework para integración da conexión da BBDD, procesamento de datos, lóxica de negocio e a implementación dunha RESTful API para a conexión da interfaz web accesible ó usuario.
 1. Modalidade
 Traballo a proposta do alumno
+
+### Objetivos personales
+
+Coma obxectivos persoais: mellorar no uso do marco de desenvolvemento ASP.NET así coma introducirme e aprender sobre TypeScript, Angular e a integración máis interacción entre os lenguaxes e frameworks.
+
+### Materiales, medios y tecnologías
+
+Inclúense ordenador persoal de escritorio e un portátil para desenvolvemento. Entre as ferramentas de sofware: Microsoft Visual Studio Community Edition 2022 coma IDE e Git + GitHub para control de versións. Nas utilidades de desenvolvemento: PostgreSQL para o diseño e implementación de a base de datos, ASP.NET como framework encargado do backend e Angular como framework para frontend. En caso de librerías externas destacadas: Gridstack para desenvolvemento da interfaz de usuario e HTMLAgilityPack para análise e recollida de datos. Todas as ferramentas software, utilidades de desenvolvemento e librerías externas están rexistradas baixo licencias que permiten o uso de individual e/ou estudantil.
 
 ### Licencias
 
