@@ -1,16 +1,15 @@
 # TRABAJO DE FIN DE GRADO
 
-**ALUMNO:** Alan Xes López Fernández
-**DNI:** 33558938Y
-**TELÉFONO:** 666980964
-**E-MAIL:** alan.lfernandez@udc.es
-
+**ALUMNO:** Alan Xes López Fernández <br>
+**DNI:** 33558938Y <br>
+**TELÉFONO:** 666980964 <br>
+**E-MAIL:** alan.lfernandez@udc.es <br>
 
 **DIRECTOR:** Marcos Gestal Pose
 
 ## DESCRIPCIÓN BREVE
 
-Creación de una aplicación web enfocada principalmente a ofrecer ofertas para productos especificados en lista de la compra además de ofrecer a los usuarios la capacidad de crear distribuciones visuales de repartición de productos en 
+Creación de una aplicación web que le permita hacer a los usuarios crear listas de la compra, visualizar los productos en mapas de distribución asignados a puntos de venta y a los mismos ofrecerles la mejor oferta para un producto o similares entre diferentes vendedores.
 
 ## OBJETIVOS CONCRETOS
 
