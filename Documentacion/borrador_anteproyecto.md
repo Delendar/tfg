@@ -1,9 +1,9 @@
 # TRABAJO DE FIN DE GRADO
 
-**ALUMNO:** Alan Xes López Fernández <br>
-**DNI:** 33558938Y <br>
-**TELÉFONO:** 666980964 <br>
-**E-MAIL:** alan.lfernandez@udc.es <br>
+**ALUMNO:** Alan Xes López Fernández<br>
+**DNI:** 33558938Y<br>
+**TELÉFONO:** 666980964<br>
+**E-MAIL:** alan.lfernandez@udc.es<br>
 
 **DIRECTOR:** Marcos Gestal Pose
 
