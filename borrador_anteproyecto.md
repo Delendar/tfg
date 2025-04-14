@@ -9,7 +9,7 @@
 
 ## DESCRIPCIÓN BREVE
 
-Creación de una aplicación web que le permita a los usuarios crear listas de la compra, crear y visualizar productos en un plano con la ubicación de estos en el supermercado y ofrecerles la mejor oferta para un producto o similares entre diferentes puntos de venta.
+Desarrollo de una aplicación web que permita a los usuarios crear listas de la compra, crear y visualizar productos sobre un plano que indique la ubicación de estos en el supermercado y ofrecerles la mejor oferta para un producto o similares entre diferentes puntos de venta.
 
 ## OBJETIVOS CONCRETOS
 
