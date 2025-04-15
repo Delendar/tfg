@@ -2,7 +2,7 @@
 
 ## Anteproyecto
 
-Véase 'borrador_anteproyecto.pdf'.
+Véase [Anteproyecto](./borrador_anteproyecto.pdf).
 
 ### Funcionalidad general
 

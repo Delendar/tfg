@@ -9,7 +9,7 @@
 
 ## DESCRIPCIÓN BREVE
 
-Desarrollo de una aplicación web que permita a los usuarios crear listas de la compra, crear y visualizar productos sobre un plano que indique la ubicación de estos en el supermercado y ofrecerles la mejor oferta para un producto o similares entre diferentes puntos de venta.
+Desarrollo de una aplicación web que permita a los usuarios crear listas de la compra, crear y visualizar productos sobre un plano que indique la ubicación de estos en el supermercado, y ofrecerles la mejor oferta para un producto o similares entre diferentes puntos de venta.
 
 ## OBJETIVOS CONCRETOS
 
@@ -26,13 +26,13 @@ Entre los objetivos principales se encuentran:
 
 ## MÉTODO DE TRABAJO
 
-Dada la naturaleza y individualidad del proyecto se considera que la metodología de trabajo Kanban es una buena opción para conseguir un flujo de trabajo constante. Además, se valora el potencial que ofrece tener un seguimiento claro de las tareas hechas, bloqueadas, en progreso u otras categorías a definir. Trabajar con un tablero Kanban y el uso de tarjetas, de un modo similar a historias de usuario, aportarán al desarrollo un seguimiento sencillo y visual que permitirá enfocarse en la correcta definición de tareas a completar.
+Dada la naturaleza y individualidad del proyecto se considera que la metodología de trabajo Kanban es una buena opción para conseguir un flujo de trabajo constante. Además, se valora positivamente el potencial que ofrece tener un seguimiento claro de las tareas hechas, bloqueadas, en progreso u otras categorías a definir. Trabajar con un tablero Kanban y el uso de tarjetas, de un modo similar a historias de usuario, aportarán al desarrollo un seguimiento sencillo y visual que permitirá enfocarse en la correcta definición de tareas a completar.
 
 El uso de la herramienta Trello, para seguimiento del proyecto, facilitará la capacidad de acceder al estado del mismo en cualquier momento. Cabe destacar que la metodología elegida no es rígida por lo que esta permite la aparición de tareas dependientes de anteriores sin completar, esto implica que será necesario identificar las tareas nuevas que dependen de tareas anteriores no terminadas.
 
 ## FASES PRINCIPALES
 
-Como dicho anteriormente, debido a la metodología de trabajo a seguir, las fases de desarrollo no tendrán unos límites estrictos o rígidos aunque sí que se pueden identificar las fases principales. Entre estas están:
+Como se ha mencionado anteriormente, debido a la metodología de trabajo a seguir, las fases de desarrollo no tendrán unos límites estrictos o rígidos aunque sí que se pueden identificar las fases principales. Entre estas están:
 
 - Planificación de uso y preparación del proyecto: planificar el entorno de trabajo, preparar las herramientas y servicios necesarios, determinar funcionalidades, requisitos y alcance de la aplicación.
 - Diseño: diseño de la base de datos, creación de casos de uso, prototipado de la interfaz de usuario, flujos de navegación y usabilidad.
@@ -41,7 +41,7 @@ Como dicho anteriormente, debido a la metodología de trabajo a seguir, las fase
 
 ## MATERIALES Y MEDIOS NECESARIOS
 
-Herramientas necesarias para la realización de la aplicación:
+Se realizará un análisis para definir las herramientas de software y tecnologías de desarrollo a implementar en el proyecto. A modo tentativo, se consideran las siguientes opciones:
 
 - Visual Studio 2022 Community Edition
 - Git para el control de versiones
@@ -50,4 +50,3 @@ Herramientas necesarias para la realización de la aplicación:
 - DbSchema o similar para el diseño de la base de datos
 - Trello para gestión y seguimiento del proyecto y las tareas
 - Google Maps API
-- Se realizará un estudio para las tecnologías encargadas de la parte modelo y parte web de la aplicación.
