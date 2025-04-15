@@ -1,0 +1,73 @@
+\documentclass[a4paper,12pt]{article}
+
+% Packages
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[spanish]{babel}
+\usepackage{geometry}
+\usepackage{graphicx}
+\usepackage{hyperref}
+\usepackage{titlesec}
+\usepackage{fancyhdr}
+
+% Page layout
+\geometry{margin=1in}
+\setlength{\parskip}{1em}
+\setlength{\parindent}{0em}
+
+% Header and Footer
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[L]{Bachelor's Final Degree Project}
+\fancyhead[R]{\thepage}
+\fancyfoot[L]{Author: Your Name}
+\fancyfoot[R]{\today}
+
+% Title formatting
+\titleformat{\section}{\large\bfseries}{\thesection}{1em}{}
+\titleformat{\subsection}{\normalsize\bfseries}{\thesubsection}{1em}{}
+
+% Document
+\begin{document}
+
+\begin{titlepage}
+    \centering
+    {\scshape\LARGE University Name \par}
+    \vspace{1.5cm}
+    {\huge\bfseries Bachelor's Final Degree Project \par}
+    \vspace{2cm}
+    {\Large\bfseries Development of a Web Application \par}
+    \vspace{1.5cm}
+    {\Large Author: Your Name \par}
+    \vfill
+    {\large Supervisor: Supervisor's Name \par}
+    \vspace{1cm}
+    {\large \today \par}
+\end{titlepage}
+
+\tableofcontents
+\newpage
+
+\section{Introduction}
+Provide an overview of the project, its objectives, and the motivation behind it.
+
+\section{Background}
+Discuss the context, related work, and technologies used in the project.
+
+\section{Methodology}
+Explain the development process, tools, and frameworks employed.
+
+\section{Implementation}
+Detail the implementation of the web application, including architecture and key features.
+
+\section{Results}
+Present the outcomes of the project, such as screenshots or performance metrics.
+
+\section{Conclusions and Future Work}
+Summarize the achievements and suggest potential improvements or extensions.
+
+\appendix
+\section{Appendix}
+Include additional information, such as code snippets or user manuals.
+
+\end{document}
