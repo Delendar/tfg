@@ -1,2 +1,12 @@
 borrador_anteproyecto.pdf
 .vs/
+.synctex.gz
+.aux
+.fdb_latexmk
+.fls
+.log
+.out
+.texput
+.gitlab-ci.yml
+.latexmkrc
+/memoria/mkaux/
