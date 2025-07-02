@@ -1,6 +1,5 @@
 borrador_anteproyecto.pdf
 .vs/
-.synctex.gz
 .aux
 .fdb_latexmk
 .fls
@@ -9,4 +8,6 @@ borrador_anteproyecto.pdf
 .texput
 .gitlab-ci.yml
 .latexmkrc
-/memoria/mkaux/
+settings.json
+/Documentacion/memoria/mkaux/
+Documentacion/memoria.synctex.gz
